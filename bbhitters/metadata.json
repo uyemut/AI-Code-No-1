@@ -1,0 +1,6 @@
+{
+  "name": "MLB Hitter Lab",
+  "description": "Professional-grade high-speed swing analysis and biomechanical analytics lab for MLB players, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
